@@ -2903,9 +2903,9 @@ Online addmission page End
     background-color: var(--black-color) !important;
 }
 
-.contuct_overlay {
+/* .contuct_overlay {
     left: 10%;
-}
+} */
 
 .contact_content {
     padding: 100px 0px;

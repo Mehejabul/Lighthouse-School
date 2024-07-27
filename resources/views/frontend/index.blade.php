@@ -64,14 +64,14 @@
   <section class="about_us">
     <div class="container">
       <div class="row">
-        <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="col-lg-6 col-md-12 col-sm-12">
           <div class="about_left">
             <div class="about_left_image">
               <img src="{{asset('frontend')}}/assets/images/about/about_us.jpg" class="img-fluid w-100">
             </div>
           </div>
         </div>
-        <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="col-lg-6 col-md-12 col-sm-12">
           <div class="about_right">
             <div class="about_title">
               <h2>About Us</h2>
@@ -384,7 +384,7 @@
   <section class="news_media">
     <div class="container">
       <div class="row">
-        <div class="col-lg-5 col-md-5 col-sm-12">
+        <div class="col-lg-5 col-md-12 col-sm-12">
           <div class="left_news_media">
             <div class="slick-carousel">
               <div class="slider_content">
@@ -472,7 +472,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-md-3 col-sm-12">
+        <div class="col-lg-3 col-md-8 col-sm-12">
           <div class="form_content">
             <div class="counter_heading">
               <h2>Latest update</h2>

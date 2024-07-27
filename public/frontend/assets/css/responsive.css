@@ -790,14 +790,6 @@
         height: 200px !important;
     }
 
-
-
-
-
-    /* banner section end */
-
-    /* About us start */
-
     .about_us {
         margin-top: 5px;
         margin-bottom: 20px;
@@ -1683,6 +1675,170 @@
     .lighthouse_cmn_overlay {
         height: 200px !important;
     }
+}
+
+
+/* Tab devices */
+@media only screen and (max-width: 1198px ) and (min-width: 768px) {
+    .top_logo {
+        width: 30%;
+    }
+
+    .top_head_button {
+        width: 40%;
+    }
+
+    .top_social_icon {
+        width: 20%;
+    }
+
+    .btn_sec {
+        justify-content: flex-end;
+    }
+
+    button.navbar-toggler {
+        display: none !important;
+    }
+
+    .image_wrapper {
+        margin-top: 10px;
+    }
+
+    .about_heading h2 {
+        font-size: 28px;
+    }
+
+    .aboutus_btn {
+        text-align: center;
+    }
+
+    .counter_sec span {
+        font-size: 20px;
+    }
+
+    .wrapper_text {
+        bottom: -70px;
+    }
+
+    .wrapbb {
+        margin: 30px 0px;
+    }
+
+    .wrapper_text p {
+        font-size: 25px;
+    }
+
+    .auto_height {
+        height: 470px;
+    }
+
+    .specification_content_text {
+        height: auto;
+    }
+
+    .age_specification_content {
+        margin: 30px;
+    }
+
+    .form_box {
+        margin-left: 25px;
+    }
+
+    .footer_icon {
+        text-align: center;
+    }
+
+    .copywrite_text p {
+        font-size: 15px;
+    }
+
+    .footer_condiion {
+        font-size: 15px;
+    }
+
+    .flipcard {
+        margin: 30px 0px;
+    }
+
+    .principale_massage_title h2::before {
+        left: 320px;
+    }
+
+    .principale_massage_title h2::after {
+        right: 320px;
+    }
+
+    .fees_banner {
+        height: 300px !important;
+    }
+
+    .event_section_banner {
+        height: 300px !important;
+    }
+
+    .event_overlay_text h2 {
+        top: 50%;
+        left: 20%;
+        transform: translate(-20%, -50%);
+    }
+
+    button#home-tab {
+        margin-left: 0px;
+    }
+
+    ul#myTab {
+        position: absolute;
+        top: 0px;
+    }
+
+    .tab_button_area .nav-item {
+        font-size: 12px;
+    }
+
+    #custom_image {
+        margin: 40px;
+        margin-top: 600px;
+    }
+
+    .tab_text {
+        margin-top: 40px;
+    }
+
+    .principale_image_part {
+        /* margin-left: 60px; */
+        text-align: center;
+    }
+
+    .main_teaching_team {
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: space-evenly;
+        flex-direction: column;
+    }
+
+    .calender_right_side {
+        margin: 60px;
+    }
+
+    .admission_content_social_info .footer_icon{
+        text-align: justify;
+    }
+
+    #hero_section_overlay {
+        margin-left: 0px;
+    }
+
+    .lighthouse_cmn_banner {
+        height: 300px !important;
+    }
+    .lighthouse_cmn_overlay {
+        height: 300px;
+    }
+
+    .login_body {
+        height: 800px;
+    }
+
 }
 
 

@@ -3,7 +3,7 @@
  <!-- hero section start -->
  <section class="hero_section" style="background-image: url({{asset('frontend')}}/assets/images/gallery-page/gallery_background.jpg);">
         <div class="hero_section_overlay" id="hero_section_overlay">
-            <p>Few Glimpses of Achievements</p>
+            <p>Few Lighthouses of Achievements</p>
         </div>
     </section>
     <!-- hero section end -->
@@ -24,7 +24,7 @@
                 <!-- gallery page image -->
                 <div class="gallery_page_wrapper">
                     <div class="row">
-                        <div class="col-lg-4">
+                        <div class="col-lg-4 col-md-6 col-sm-12">
                             <div class="achivement_wrap">
                                 <img src="{{asset('frontend')}}/assets/images/achivement/achivement_1.jpg" class="img-fluid W-100">
                                 <div class="achivement_wrap_overlay">
@@ -32,7 +32,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4">
+                        <div class="col-lg-4 col-md-6 col-sm-12">
                             <div class="achivement_wrap">
                                 <img src="{{asset('frontend')}}/assets/images/achivement/achivement_2.jpg" class="img-fluid W-100">
                                 <div class="achivement_wrap_overlay">
@@ -40,7 +40,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4">
+                        <div class="col-lg-4 col-md-6 col-sm-12">
                             <div class="achivement_wrap">
                                 <img src="{{asset('frontend')}}/assets/images/achivement/achivement_3.jpg" class="img-fluid W-100">
                                 <div class="achivement_wrap_overlay">
@@ -48,7 +48,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4">
+                        <div class="col-lg-4 col-md-6 col-sm-12">
                             <div class="achivement_wrap">
                                 <img src="{{asset('frontend')}}/assets/images/achivement/achivement_3.jpg" class="img-fluid W-100">
                                 <div class="achivement_wrap_overlay">
@@ -56,7 +56,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4">
+                        <div class="col-lg-4 col-md-6 col-sm-12">
                             <div class="achivement_wrap">
                                 <img src="{{asset('frontend')}}/assets/images/achivement/achivement_1.jpg" class="img-fluid W-100">
                                 <div class="achivement_wrap_overlay">
@@ -64,7 +64,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4">
+                        <div class="col-lg-4 col-md-6 col-sm-12">
                             <div class="achivement_wrap">
                                 <img src="{{asset('frontend')}}/assets/images/achivement/achivement_2.jpg" class="img-fluid W-100">
                                 <div class="achivement_wrap_overlay">

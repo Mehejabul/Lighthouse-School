@@ -2,7 +2,7 @@
   <section class="footer_section">
     <div class="container">
       <div class="row">
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-md-12 col-sm-12">
           <div class="footer_1st_column">
             <div class="footer_logo">
               <img src="{{asset('frontend')}}/assets/images/logo/Light.png" class="img-fluid w-100">
@@ -15,10 +15,10 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-10">
+        <div class="col-lg-10 col-md-12 col-sm-12">
           <div class="footer_2nd_column">
             <div class="row">
-              <div class="col-lg-3">
+              <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="footer_singel_part">
                   <div class="footer_singel_part_title">
                     <h5>About Glenrich</h5>
@@ -48,7 +48,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-lg-3">
+              <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="footer_singel_part">
                   <div class="footer_singel_part_title">
                     <h5>Satarkul Branch</h5>
@@ -72,7 +72,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-lg-3">
+              <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="footer_singel_part">
                   <div class="footer_singel_part_title">
                     <h5>Uttara Branch (Junior Campus)</h5>
@@ -96,7 +96,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-lg-3">
+              <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="footer_singel_part">
                   <div class="footer_singel_part_title">
                     <h5>Uttara Branch (Senior Campus)</h5>
@@ -126,12 +126,12 @@
         <div class="bottom_foter">
           <div class="container">
             <div class="row">
-              <div class="col-lg-8 col-sm-12">
+              <div class="col-lg-8 col-md-6 col-sm-12">
                 <div class="copywrite_text">
                   <P>Copyright © 2024 lighthouse international School</P>
                 </div>
               </div>
-              <div class="col-lg-4 col-sm-12">
+              <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="footer_condiion">
                   <span><a>Terms & condition</a><a>privacy policy</a></span>
                   <a></a>

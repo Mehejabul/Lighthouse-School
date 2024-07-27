@@ -74,7 +74,7 @@
                             </div>
                             <div class="admission_content_btn">
                                 <div class="wrapbb">
-                                    <a href="#" class="box_btn">Admissin form <span class="arrow-btn"></a>
+                                    <a href="#" class="box_btn">Admission form <span class="arrow-btn"></a>
                                 </div>
                             </div>
                         </div>
